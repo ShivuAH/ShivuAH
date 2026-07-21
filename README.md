@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" alt="welcome banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Shivanand%20Hanchinal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20|%20Computer%20Vision%20|%20AI%20Developer&descAlignY=55" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Shivanand Hanchinal</h1>
 
