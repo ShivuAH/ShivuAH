@@ -1,103 +1,83 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Shivanand%20Hanchinal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20|%20Computer%20Vision%20|%20AI%20Developer&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Shivanand%20Hanchinal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Java%20Developer%20|%20Python%20%26%20AI%2FML&descAlignY=55" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Shivanand Hanchinal</h1>
 
 <h3 align="center">
-Electronics & Communication Engineering Student | Embedded Systems Enthusiast | AI & Computer Vision Developer
+Software Developer | Java | Python | Machine Learning | Computer Vision
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Embedded+Systems+Developer;AI+%26+Computer+Vision+Projects;Python+%7C+C%2FC%2B%2B+%7C+Arduino;Raspberry+Pi+Developer;Always+Learning+New+Technologies!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Software+Developer;Java+%7C+Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Projects;Always+Learning+and+Building!" />
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ShivuAH&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=ShivuAH&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 BE in Electronics & Communication Engineering (VTU)
+- 🎓 B.E. Electronics & Communication Engineering (VTU)
 - 🏫 Alva's Institute of Engineering & Technology
-- 🌱 Currently learning **Computer Vision, Embedded AI, Raspberry Pi, IoT, and Machine Learning**
-- 💡 Passionate about **AI-powered Embedded Systems**
-- 🚀 Interested in **Embedded Systems, IoT, Computer Vision, Robotics & Automation**
-- 🎯 Career Goal: Software Engineer | Embedded Engineer | AI Engineer
-- ⚡ I enjoy building real-world projects that solve practical problems.
+- 💻 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning Java, Data Structures & Algorithms, Machine Learning and Computer Vision
+- 🚀 Interested in Backend Development, AI/ML, Computer Vision and Embedded AI
+- 🎯 Seeking Software Engineer and AI/ML opportunities
+- ⚡ I enjoy building software solutions for real-world problems
 
 ---
 
-# 🏆 Current Project
-
-## 🎓 Smart Attendance System
-
-An AI-powered attendance system that combines RFID technology with Computer Vision using YOLOv8.
-
-### Features
-
-- 📷 Student Detection using YOLOv8
-- 🎫 RFID Attendance
-- 📊 Smart Dashboard
-- 📈 Attendance Reports
-- ⚠️ Mismatch Detection
-- 💻 Raspberry Pi Based System
-
----
-
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description | Technologies |
-|----------|-------------|-------------|
-| **Smart Attendance System** | AI-powered attendance system using Raspberry Pi, RFID & YOLOv8 | Python, OpenCV, YOLOv8, FastAPI |
-| **Pollution Monitoring System** | IoT-based environmental monitoring system | Arduino, Sensors, IoT |
-| **Portfolio Website** | Personal Portfolio Website | HTML, CSS, JavaScript |
-| **ESP32 Projects** | IoT and Embedded Applications | ESP32, Arduino |
+|----------|-------------|--------------|
+| **Java Core & Data Structures Mastery** | Java programs covering OOP concepts and Data Structures | Java, OOP, Collections |
+| **Student Pass Prediction** | Machine Learning model for predicting student performance | Python, Scikit-learn, Pandas |
+| **Smart Attendance System** | AI-assisted attendance system using RFID and Computer Vision | Python, OpenCV, Raspberry Pi |
+| **Pollution Monitoring System** | IoT-based environmental monitoring application | ESP32, Arduino, Sensors |
 
 ---
 
-# 💻 Languages & Tools
+# 💻 Technical Skills
 
-<p align="left">
+### Programming Languages
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
+### Tools & Technologies
+
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Logo.svg" width="45"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Raspberry_Pi_Logo.svg" width="45"/>
-
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-- Embedded AI
+- Java
+- Data Structures & Algorithms
+- Object-Oriented Programming
 - Machine Learning
-- TensorFlow Lite
 - Computer Vision
-- Raspberry Pi
+- Python
 - OpenCV
-- YOLOv8
-- FastAPI
+- Git & GitHub
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -111,29 +91,29 @@ An AI-powered attendance system that combines RFID technology with Computer Visi
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivuAH&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivuAH&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect with Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/ShivuAH">
 <img src="https://img.icons8.com/material-rounded/48/github.png"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/shivuah">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:shivananadhanchinal47@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
@@ -143,14 +123,14 @@ An AI-powered attendance system that combines RFID technology with Computer Visi
 
 # 💡 Quote
 
-> **"The best way to predict the future is to build it."**
+> **"Code. Learn. Build. Improve. Repeat."**
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+Feel free to explore my repositories and connect with me.
 
 </p>
