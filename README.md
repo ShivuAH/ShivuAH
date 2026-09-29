@@ -1,248 +1,429 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Shivanand%20Hanchinal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20Undergraduate%20%7C%20VLSI%20%26%20ASIC%20Physical%20Design&descAlignY=55" width="100%" />
+<!-- ========================= HEADER ========================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0F2027,75:203A43,100:2C5364&height=280&section=header&text=Shivanand%20Hanchinal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20Undergraduate%20%7C%20VLSI%20%7C%20ASIC%20Physical%20Design%20%7C%20Verification&descAlignY=58&descSize=17" width="100%"/>
+
+<!-- ========================= INTRO ========================= -->
 
 <h1 align="center">Hi 👋, I'm Shivanand Hanchinal</h1>
 
 <h3 align="center">
-ECE Undergraduate | VLSI & ASIC Physical Design | Analog & Custom Layout | Digital Verification
+ECE Undergraduate • VLSI & ASIC Physical Design • Analog Layout • SystemVerilog/UVM
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=VLSI+%26+ASIC+Physical+Design;Cadence+Innovus+%7C+Genus+%7C+Virtuoso;45nm+RTL-to-GDSII+Design+Flows;SystemVerilog+%7C+UVM+%7C+SVA;Always+Learning+%26+Building!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=2C9AB7&center=true&vCenter=true&width=850&lines=VLSI+%26+ASIC+Physical+Design;Cadence+Innovus+%7C+Genus+%7C+Virtuoso;45nm+RTL-to-GDSII+Implementation;SystemVerilog+%7C+UVM+%7C+SVA;Analog+%26+Custom+IC+Layout;Learning+%7C+Designing+%7C+Verifying" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/ShivuAH">
-<img src="https://komarev.com/ghpvc/?username=ShivuAH&label=Profile%20Views&color=0e75b6&style=flat"/>
-</a>
+  <a href="https://github.com/ShivuAH">
+    <img src="https://komarev.com/ghpvc/?username=ShivuAH&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/ShivuAH?label=Followers&style=flat-square&color=203A43" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ShivuAH?label=Stars&style=flat-square&color=2C5364" alt="Stars"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 **B.E. Electronics & Communication Engineering** undergraduate at **Alva's Institute of Engineering and Technology**, graduating in **2027**.
+🎓 **B.E. Electronics & Communication Engineering** undergraduate at
+**Alva's Institute of Engineering and Technology**, graduating in **2027**.
 
-I am focused on **VLSI and semiconductor design**, with hands-on experience in **ASIC Physical Design, analog/custom layout, digital design, and functional verification**.
+I am focused on **VLSI and semiconductor design**, with hands-on experience in:
 
-My current areas of interest include:
-
-* 🔹 ASIC Physical Design & RTL-to-GDSII Flow
+* 🔹 ASIC Physical Design
+* 🔹 RTL-to-GDSII implementation
 * 🔹 Analog & Custom IC Layout
-* 🔹 CMOS & MOSFET Circuit Design
-* 🔹 SystemVerilog & UVM-based Verification
-* 🔹 Static Timing Analysis and Timing Closure
-* 🔹 Semiconductor Design & Verification
+* 🔹 CMOS and MOSFET fundamentals
+* 🔹 Static Timing Analysis
+* 🔹 SystemVerilog & UVM Verification
+* 🔹 AMBA AHB protocol verification
+* 🔹 Linux-based EDA workflows
 
-I enjoy working with industry-oriented design flows and building projects that strengthen my understanding of **digital IC design, physical implementation, verification, and semiconductor technologies**.
-
----
-
-# 🧠 Technical Skills
-
-### 🔹 Analog & Custom Layout
-
-<p>
-<img src="https://img.shields.io/badge/Cadence%20Virtuoso-CC0000?style=for-the-badge&logo=cadence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Custom%20Analog%20Layout-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DRC%20%2F%20LVS-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CMOS%20Design-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MOSFET%20Biasing-00838F?style=for-the-badge"/>
-</p>
-
-**Concepts:**
-CMOS Inverter • MOSFET Biasing • Common Source • Common Gate • Common Drain • Single-Stage Op-Amp • Transistor-Level Design
+I enjoy translating digital designs into physical implementations and developing a deeper understanding of **timing, power, area, routing, verification, and semiconductor design methodologies**.
 
 ---
 
-### 🔹 ASIC Physical Design
+# ⚡ Core Expertise
 
-<p>
-<img src="https://img.shields.io/badge/Cadence%20Innovus-CC0000?style=for-the-badge&logo=cadence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cadence%20Genus-B71C1C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/45nm%20GSCLIB%20PDK-37474F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCL-1565C0?style=for-the-badge&logo=tcl&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Flow & Concepts:**
+### 🏗️ ASIC Physical Design
 
-`RTL → Synthesis → Floorplanning → Power Planning → Placement → CTS → Routing → STA → DRC/LVS → GDSII`
-
+* RTL-to-GDSII Flow
 * Floorplanning
-* IO Pin Placement
 * Power Planning
+* IO Pin Placement
 * Standard Cell Placement
-* CTS / CCOpt
-* Global & Detailed Routing / NanoRoute
+* Clock Tree Synthesis
+* CCOpt
+* NanoRoute
 * Static Timing Analysis
-* MCMM Analysis
-* Setup & Hold Analysis
-* SDC Constraints
-* GDSII Generation
+* MCMM
+* Setup / Hold Analysis
+* DRC / LVS
+* GDSII
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 Analog & Custom Design
+
+* CMOS Inverter
+* MOSFET Biasing
+* Common Source
+* Common Gate
+* Common Drain
+* Single-Stage Op-Amp
+* Custom Analog Layout
+* DRC / LVS Verification
+* RC Transient Analysis
+* RLC Circuits
+* Device Fundamentals
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Verification
+
+* SystemVerilog
+* UVM
+* SVA
+* Constrained-Random Testing
+* Functional Coverage
+* Driver
+* Monitor
+* Sequencer
+* Scoreboard
+* TLM Analysis Ports
+* AMBA AHB
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Programming & Tools
+
+* TCL
+* C
+* Python
+* Linux
+* Git
+* GitHub
+* Cadence Innovus
+* Cadence Genus
+* Cadence Virtuoso
+* 45nm GSCLIB PDK
+* LEF / DEF / LIB / SDC
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔹 Digital Design & Verification
+# 🛠️ Technology Stack
+
+### EDA & VLSI
 
 <p>
-<img src="https://img.shields.io/badge/Verilog-1A237E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SystemVerilog-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UVM-0D47A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SVA-283593?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence-Innovus-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence-Genus-B71C1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence-Virtuoso-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/45nm-GSCLIB%20PDK-37474F?style=for-the-badge"/>
 </p>
 
-**Concepts:**
-
-Boolean Algebra • Combinational Logic • Sequential Logic • FSM Design • MUX / DEMUX • Adders • AMBA AHB • Constrained-Random Verification • Functional Coverage • Assertions
-
----
-
-### 🔹 Circuit & Device Fundamentals
-
-* RC Steady-State & Transient Analysis
-* Series / Parallel RLC Circuits
-* KCL & KVL
-* Diode Characteristics
-* MOSFET Operation
-* MOSFET vs BJT
-* Transistor Biasing
-* Gain & Bandwidth
-* CMOS Logic
-
----
-
-### 🔹 Programming & Tools
+### Hardware Description & Verification
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Verilog-HDL-1A237E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-IEEE-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UVM-Verification-0D47A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SVA-Assertions-283593?style=for-the-badge"/>
 </p>
 
-**C • Python • TCL • Linux • Git • GitHub**
+### Programming & Development
+
+<p>
+<img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/TCL-Scripting-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🔄 ASIC Physical Design Flow
 
-## 🔬 ASIC Physical Design — 45nm SRAM Controller
+<p align="center">
 
-**8-bit × 16-word SRAM Controller | 900 Instances | 45nm**
+<img src="https://img.shields.io/badge/RTL-→-07111F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Synthesis-→-0F2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Floorplan-→-16313B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Plan-→-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Placement-→-264653?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CTS-→-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Routing-→-355C69?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STA-→-416B78?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DRC%2FLVS-→-4D7A85?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GDSII-✓-5C8994?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<b>RTL → Synthesis → Floorplanning → Power Planning → Placement → CTS → Routing → STA → Physical Verification → GDSII</b>
+</p>
+
+---
+
+# 🚀 Featured VLSI Projects
+
+## 🔬 01 — 45nm SRAM Controller Physical Design
+
+<p align="center">
+  <img src="images/sram-floorplan.png" width="88%" alt="45nm SRAM Controller Floorplan"/>
+</p>
+
+<p align="center">
+  <i>45nm SRAM Controller — Physical Design Implementation</i>
+</p>
+
+**8-bit × 16-word SRAM Controller | 900 Instances | 5.4 ns Clock**
 
 <a href="https://github.com/ShivuAH/sram-physical-design-45nm">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-* Implemented a complete **RTL-to-GDSII physical design flow** using Cadence tools.
-* Targeted a **5.4 ns clock period** at 45nm technology.
-* Automated floorplanning, IO placement, and power-grid generation using **TCL scripts**.
-* Created **Metal5 IO placement** and **Metal8/9 power-grid mesh**.
-* Performed CTS and post-CTS timing analysis.
-* Resolved hold violations using buffer insertion.
-* Completed routing followed by **DRC/LVS verification**.
+### Implementation
 
-**Tools:** `Cadence Innovus` `Genus` `TCL` `Linux` `45nm GSCLIB PDK`
+* Executed complete **RTL-to-GDSII PnR flow** at 45nm.
+* Targeted a **5.4 ns clock period**.
+* Implemented automated floorplanning using TCL.
+* Performed Metal5 IO placement.
+* Generated Metal8/9 power-grid mesh.
+* Executed standard-cell placement.
+* Performed CTS using Cadence Innovus.
+* Analyzed post-CTS timing.
+* Resolved hold violations using buffer insertion.
+* Completed global and detailed routing.
+* Performed DRC/LVS and connectivity verification.
+
+**Tools:** `Innovus` `Genus` `TCL` `Linux` `45nm GSCLIB PDK`
 
 ---
 
-## 🧮 ASIC Physical Design — 45nm 32-bit ALU
+## 🧮 02 — 45nm 32-bit ALU Physical Design
 
-**32-bit ALU | RTL-to-GDSII | 45nm**
+<p align="center">
+  <img src="images/alu-floorplan.png" width="88%" alt="32-bit ALU Floorplan"/>
+</p>
+
+<p align="center">
+  <i>45nm 32-bit ALU — Floorplanning and Physical Implementation</i>
+</p>
+
+**32-bit ALU | 5.4 ns Clock Target | RTL-to-GDSII**
 
 <a href="https://github.com/ShivuAH/alu-physical-design-45nm">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-* Executed the **netlist-to-GDSII physical design flow** for a 32-bit ALU.
-* Targeted a **5.4 ns clock period**.
-* Performed floorplanning and IO pin placement.
-* Implemented power planning and standard-cell placement.
-* Performed **Clock Tree Synthesis using CCOpt**.
-* Executed global and detailed routing using **NanoRoute**.
-* Performed **MCMM setup/hold timing analysis**.
-* Completed DRC and connectivity verification.
+### Implementation
+
+* Executed netlist-to-GDSII physical design flow.
+* Designed floorplan and IO pin placement.
+* Implemented power planning.
+* Performed standard-cell placement.
+* Implemented **Clock Tree Synthesis using CCOpt**.
+* Executed NanoRoute global and detailed routing.
+* Performed MCMM timing analysis.
+* Analyzed setup and hold timing.
+* Completed physical verification and connectivity checks.
 
 **Tools:** `Innovus` `Genus` `TCL` `SDC` `MMMC` `45nm GSCLIB PDK`
 
 ---
 
-## 🧪 Functional Verification — AMBA AHB Memory Controller
+# 🧪 03 — AMBA AHB Memory Controller Verification
+
+<p align="center">
+  <img src="images/ahb-uvm-architecture.png" width="82%" alt="AMBA AHB UVM Verification Architecture"/>
+</p>
+
+<p align="center">
+  <i>UVM-based AMBA AHB Memory Controller Verification Environment</i>
+</p>
 
 **SystemVerilog | UVM | SVA | Ongoing**
 
-* Developing a UVM-based verification environment for an **AMBA AHB memory controller**.
-* Implementing:
+### Verification Environment
 
-  * Driver
-  * Monitor
-  * Sequencer
-  * Scoreboard
-  * TLM Analysis Ports
+```text
+                    ┌──────────────────┐
+                    │   Test / Config  │
+                    └────────┬─────────┘
+                             │
+                    ┌────────▼─────────┐
+                    │    Sequencer     │
+                    └────────┬─────────┘
+                             │
+                    ┌────────▼─────────┐
+                    │      Driver      │
+                    └────────┬─────────┘
+                             │
+                    ┌────────▼─────────┐
+                    │       DUT        │
+                    │  AHB Controller  │
+                    └────────┬─────────┘
+                             │
+                    ┌────────▼─────────┐
+                    │     Monitor      │
+                    └────────┬─────────┘
+                             │
+                    ┌────────▼─────────┐
+                    │    Scoreboard    │
+                    └──────────────────┘
+```
+
+### Current Work
+
+* Developing UVM verification environment.
+* Implementing Driver, Monitor, Sequencer and Scoreboard.
+* Using TLM analysis ports for transaction-level checking.
 * Developing constrained-random test sequences.
-* Writing **SystemVerilog Assertions (SVA)** for protocol verification.
-* Verifying read/write operations, handshaking, timing behavior, and functional coverage.
+* Writing SVA properties for protocol behavior.
+* Verifying read/write transactions.
+* Checking AHB handshaking and timing.
+* Working toward functional coverage closure.
 
 **Technologies:** `SystemVerilog` `UVM` `SVA` `AMBA AHB`
 
 ---
 
+# 📸 VLSI Design Gallery
+
+> Screenshots from Cadence Innovus, Genus and Virtuoso implementations will be added here.
+
+<table>
+<tr>
+<td align="center">
+<img src="images/sram-floorplan.png" width="100%" alt="SRAM Floorplan"/>
+<br/>
+<b>SRAM Floorplan</b>
+</td>
+
+<td align="center">
+<img src="images/alu-floorplan.png" width="100%" alt="ALU Floorplan"/>
+<br/>
+<b>32-bit ALU Floorplan</b>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<i>Physical design results and EDA screenshots from project implementations.</i>
+</p>
+
+---
+
 # 📚 Certifications
 
-* 🎓 **Digital Systems: From Logic Gates to Processors** — Coursera
-* 🎓 **Signal Processing Algorithms and Architectures** — NPTEL
+| Certification                                   | Platform |
+| ----------------------------------------------- | -------- |
+| Digital Systems: From Logic Gates to Processors | Coursera |
+| Signal Processing Algorithms and Architectures  | NPTEL    |
 
 ---
 
 # 🏆 Achievement
 
-### 🥇 TECHNOVATE 2025 — Alva's Institute of Engineering & Technology
+<p align="center">
 
-**1st Place among 120+ teams — Hardware & Embedded Systems Track**
+<img src="https://img.shields.io/badge/TECHNOVATE%202025-1st%20Place-FFD700?style=for-the-badge&labelColor=111827"/>
 
-Developed an innovative hardware/embedded solution as part of a competitive technical hackathon.
+</p>
+
+### 🥇 1st Place — TECHNOVATE 2025
+
+**Alva's Institute of Engineering and Technology**
+
+🏅 **1st Place among 120+ teams**
+
+**Track:** Hardware & Embedded Systems
 
 ---
 
 # 🎯 Current Focus
 
-<p align="center">
+<table>
+<tr>
+<td align="center">🏗️<br/><b>ASIC Physical Design</b></td>
+<td align="center">🔬<br/><b>Analog Layout</b></td>
+<td align="center">⏱️<br/><b>Timing Closure</b></td>
+<td align="center">🧪<br/><b>UVM Verification</b></td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/VLSI-ASIC%20Design-0F2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Physical%20Design-PnR-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Analog-Custom%20Layout-2C5364?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Verification-SystemVerilog-37474F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UVM-Verification-455A64?style=for-the-badge"/>
+Currently strengthening my practical knowledge in:
 
-</p>
-
-> **Currently strengthening my skills in ASIC Physical Design, Analog Layout, SystemVerilog, UVM, and semiconductor design flows.**
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShivuAH&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivuAH&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivuAH&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+* ASIC Physical Design
+* Cadence Innovus / Genus
+* Cadence Virtuoso
+* SystemVerilog
+* UVM
+* SVA
+* AMBA AHB
+* Timing Analysis
+* CMOS / Analog Design
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivuAH&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShivuAH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivuAH&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivuAH&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivuAH&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</p>
+
+---
+
+# 📌 Repository Highlights
+
+<p align="center">
+
+<a href="https://github.com/ShivuAH/sram-physical-design-45nm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivuAH&repo=sram-physical-design-45nm&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ShivuAH/alu-physical-design-45nm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivuAH&repo=alu-physical-design-45nm&theme=tokyonight&hide_border=true"/>
+</a>
 
 </p>
 
@@ -250,19 +431,29 @@ Developed an innovative hardware/embedded solution as part of a competitive tech
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/ShivuAH">
-<img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-ShivuAH-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shiviuah">
-<img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shivanand%20Hanchinal-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:shivananadhanchinal47@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+# 💬 Engineering Philosophy
+
+<p align="center">
+
+> **"Design with precision. Verify with confidence. Build with purpose."**
 
 </p>
 
@@ -270,10 +461,12 @@ Developed an innovative hardware/embedded solution as part of a competitive tech
 
 <p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+
 ### ⚡ Learn • Design • Verify • Build
 
-**Exploring semiconductor design one project at a time.**
+**Thanks for visiting my profile!**
 
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Explore my repositories • 💻 Follow my VLSI journey • 🤝 Let's connect
 
 </p>
