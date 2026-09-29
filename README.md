@@ -222,7 +222,7 @@ I enjoy translating digital designs into physical implementations and developing
 ## 🧮 02 — 45nm 32-bit ALU Physical Design
 
 <p align="center">
-  <img src="images/alu-floorplan.png" width="88%" alt="32-bit ALU Floorplan"/>
+  <img src="images/sram-3D.png" width="88%" alt="32-bit ALU Floorplan"/>
 </p>
 
 <p align="center">
